@@ -2,8 +2,6 @@
 <materials>
   <material depletable="true" id="1" name="fuel_compact" volume="226.1946710584651">
     <density units="atom/b-cm" value="0.083732" />
-    <nuclide ao="0.00021172" name="U235" />
-    <nuclide ao="0.00085221" name="U238" />
     <nuclide ao="0.07708943666599999" name="C12" />
     <nuclide ao="0.0008635633339999999" name="C13" />
     <nuclide ao="0.00212283687474" name="O16" />
@@ -13,6 +11,8 @@
     <nuclide ao="1.937235375e-05" name="S33" />
     <nuclide ao="0.00010857124125" name="S34" />
     <nuclide ao="3.7725749999999996e-07" name="S36" />
+    <nuclide ao="0.00021172" name="U235" />
+    <nuclide ao="0.00085221" name="U238" />
     <sab name="c_Graphite" />
   </material>
   <material id="2" name="He">
