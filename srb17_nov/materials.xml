@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<materials>
+  <material depletable="true" id="16" name="fuel(0.15085708714661653)-Buffer(0.25028233864147365)-IPyC(0.16138444723464623)-SiC(0.17683264052799263)-OPyC(0.26064348644927093)(0.3)-(0.7)(0.5787037037037038)-(0.42129629629629617)(0.64)-He(0.36)">
+    <density units="g/cm3" value="0.9989389548003714" />
+    <nuclide ao="0.0003933364442131099" name="U235" />
+    <nuclide ao="0.0074733924400490915" name="U238" />
+    <nuclide ao="0.047182484364090393" name="O16" />
+    <nuclide ao="1.788894148281224e-05" name="O17" />
+    <nuclide ao="0.9156658704608691" name="C0" />
+    <nuclide ao="0.020676396401571845" name="Si28" />
+    <nuclide ao="0.0010498884152258274" name="Si29" />
+    <nuclide ao="0.000692091135034585" name="Si30" />
+    <nuclide ao="1.3697302794926118e-08" name="He3" />
+    <nuclide ao="0.006848637700160264" name="He4" />
+    <sab name="c_Graphite" />
+  </material>
+</materials>
