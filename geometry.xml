@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <geometry>
-  <cell id="31" material="133" region="-182 181 -184 183 -186 185" universe="31" />
-  <surface boundary="reflective" coeffs="-15" id="181" type="x-plane" />
-  <surface boundary="reflective" coeffs="15" id="182" type="x-plane" />
-  <surface boundary="reflective" coeffs="-15" id="183" type="y-plane" />
-  <surface boundary="reflective" coeffs="15" id="184" type="y-plane" />
-  <surface boundary="reflective" coeffs="-15" id="185" type="z-plane" />
-  <surface boundary="reflective" coeffs="15" id="186" type="z-plane" />
+  <cell id="16" material="86" region="-46 47 -48" universe="16" />
+  <surface boundary="reflective" coeffs="0 0 50" id="46" type="z-cylinder" />
+  <surface boundary="reflective" coeffs="0" id="47" type="z-plane" />
+  <surface boundary="reflective" coeffs="125" id="48" type="z-plane" />
 </geometry>

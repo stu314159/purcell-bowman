@@ -4,6 +4,11 @@
   <particles>25000</particles>
   <batches>45</batches>
   <inactive>15</inactive>
+  <source strength="1.0">
+    <space type="fission">
+      <parameters>-50 -50 0 50 50 125</parameters>
+    </space>
+  </source>
   <temperature_method>interpolation</temperature_method>
   <temperature_range>250 2500</temperature_range>
 </settings>
