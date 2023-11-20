@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <geometry>
-  <cell id="4" material="36" region="-10 11 -12" universe="4" />
-  <surface boundary="vacuum" coeffs="0 0 50" id="10" type="z-cylinder" />
-  <surface boundary="vacuum" coeffs="0" id="11" type="z-plane" />
-  <surface boundary="vacuum" coeffs="125" id="12" type="z-plane" />
+  <cell id="31" material="133" region="-182 181 -184 183 -186 185" universe="31" />
+  <surface boundary="reflective" coeffs="-15" id="181" type="x-plane" />
+  <surface boundary="reflective" coeffs="15" id="182" type="x-plane" />
+  <surface boundary="reflective" coeffs="-15" id="183" type="y-plane" />
+  <surface boundary="reflective" coeffs="15" id="184" type="y-plane" />
+  <surface boundary="reflective" coeffs="-15" id="185" type="z-plane" />
+  <surface boundary="reflective" coeffs="15" id="186" type="z-plane" />
 </geometry>
