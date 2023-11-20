@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
-  <material depletable="true" id="143" name="fuel(0.15085708714661653)-Buffer(0.25028233864147365)-IPyC(0.16138444723464623)-SiC(0.17683264052799263)-OPyC(0.26064348644927093)(0.58)-(0.42000000000000004)(0.5787037037037038)-(0.42129629629629617)(0.64)-He(0.36)">
-    <density units="g/cm3" value="1.2129910974677414" />
-    <nuclide ao="0.003634072278188773" name="U235" />
-    <nuclide ao="0.014766293687324001" name="U238" />
-    <nuclide ao="0.036713168269468854" name="O16" />
-    <nuclide ao="1.3947477401858687e-05" name="O17" />
-    <nuclide ao="7.36161841548235e-05" name="O18" />
-    <nuclide ao="0.8858684568612889" name="C12" />
-    <nuclide ao="0.009923584231222844" name="C13" />
-    <nuclide ao="0.0390313855194401" name="Si28" />
-    <nuclide ao="0.001981902392041489" name="Si29" />
-    <nuclide ao="0.0013064789135145505" name="Si30" />
-    <nuclide ao="1.3374188371907957e-08" name="He3" />
-    <nuclide ao="0.006687080811765608" name="He4" />
+  <material depletable="true" id="36" name="fuel(0.15085708714661653)-Buffer(0.25028233864147365)-IPyC(0.16138444723464623)-SiC(0.17683264052799263)-OPyC(0.26064348644927093)(0.3)-(0.7)(0.5787037037037038)-(0.42129629629629617)(0.64)-He(0.36)">
+    <density units="g/cm3" value="0.9989389548003708" />
+    <nuclide ao="0.0004994908621686189" name="U235" />
+    <nuclide ao="0.009490326381203758" name="U238" />
+    <nuclide ao="0.019932094944446987" name="O16" />
+    <nuclide ao="7.57228147047626e-06" name="O17" />
+    <nuclide ao="3.99672608272842e-05" name="O18" />
+    <nuclide ao="0.9295730145487641" name="C12" />
+    <nuclide ao="0.01041316691829205" name="C13" />
+    <nuclide ao="0.02122556658165111" name="Si28" />
+    <nuclide ao="0.0010777737100738636" name="Si29" />
+    <nuclide ao="0.0007104732460115881" name="Si30" />
+    <nuclide ao="1.4061106530180398e-08" name="He3" />
+    <nuclide ao="0.00703053920398367" name="He4" />
     <sab name="c_Graphite" />
   </material>
 </materials>
