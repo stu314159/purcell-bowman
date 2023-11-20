@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <geometry>
-  <cell id="16" material="86" region="-46 47 -48" universe="16" />
-  <surface boundary="reflective" coeffs="0 0 50" id="46" type="z-cylinder" />
-  <surface boundary="reflective" coeffs="0" id="47" type="z-plane" />
-  <surface boundary="reflective" coeffs="125" id="48" type="z-plane" />
+  <cell id="31" material="89" region="-91 92 -93" universe="16" />
+  <cell id="32" material="9" region="(91 | -92 | 93) (-94 95 -96)" universe="16" />
+  <surface coeffs="0 0 50" id="91" type="z-cylinder" />
+  <surface coeffs="0" id="92" type="z-plane" />
+  <surface coeffs="125" id="93" type="z-plane" />
+  <surface boundary="vacuum" coeffs="0 0 150" id="94" type="z-cylinder" />
+  <surface boundary="vacuum" coeffs="-100" id="95" type="z-plane" />
+  <surface boundary="vacuum" coeffs="225" id="96" type="z-plane" />
 </geometry>
