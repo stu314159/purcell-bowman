@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <materials>
   <material id="7" name="Reflector">
-    <density units="g/cm3" value="1.72" />
-    <nuclide ao="0.988922" name="C12" />
-    <nuclide ao="0.011078" name="C13" />
-    <sab name="c_Graphite" />
+    <density units="g/cm3" value="1.72"/>
+    <nuclide ao="0.988922" name="C12"/>
+    <nuclide ao="0.011078" name="C13"/>
+    <sab name="c_Graphite"/>
   </material>
   <material depletable="true" id="12" name="fuel(0.15085708714661653)-Buffer(0.25028233864147365)-IPyC(0.16138444723464623)-SiC(0.17683264052799263)-OPyC(0.26064348644927093)(0.6)-(0.4)(0.5787037037037038)-(0.42129629629629617)(0.64)-He(0.36)" volume="981747.7042468104">
-    <density units="g/cm3" value="1.2282805362296967" />
-    <nuclide ao="1.3327726550342688e-08" name="He3" />
-    <nuclide ao="0.006663849947444795" name="He4" />
-    <nuclide ao="0.88291248144631" name="C12" />
-    <nuclide ao="0.009890471108401093" name="C13" />
-    <nuclide ao="0.03784720036724625" name="O16" />
-    <nuclide ao="1.4378300667795283e-05" name="O17" />
-    <nuclide ao="7.589011254843717e-05" name="O18" />
-    <nuclide ao="0.040237024969429436" name="Si28" />
-    <nuclide ao="0.0020431213233726197" name="Si29" />
-    <nuclide ao="0.0013468347066218145" name="Si30" />
-    <nuclide ao="0.0037463250420706707" name="U235" />
-    <nuclide ao="0.015222409348160574" name="U238" />
-    <sab name="c_Graphite" />
+    <density units="g/cm3" value="1.2282805362296967"/>
+    <nuclide ao="1.3327726550342688e-08" name="He3"/>
+    <nuclide ao="0.006663849947444795" name="He4"/>
+    <nuclide ao="0.88291248144631" name="C12"/>
+    <nuclide ao="0.009890471108401093" name="C13"/>
+    <nuclide ao="0.03784720036724625" name="O16"/>
+    <nuclide ao="1.4378300667795283e-05" name="O17"/>
+    <nuclide ao="7.589011254843717e-05" name="O18"/>
+    <nuclide ao="0.040237024969429436" name="Si28"/>
+    <nuclide ao="0.0020431213233726197" name="Si29"/>
+    <nuclide ao="0.0013468347066218145" name="Si30"/>
+    <nuclide ao="0.0037463250420706707" name="U235"/>
+    <nuclide ao="0.015222409348160574" name="U238"/>
+    <sab name="c_Graphite"/>
   </material>
 </materials>
