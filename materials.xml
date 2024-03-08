@@ -6,7 +6,7 @@
     <nuclide ao="0.011078" name="C13"/>
     <sab name="c_Graphite"/>
   </material>
-  <material depletable="true" id="12" name="fuel(0.15085708714661653)-Buffer(0.25028233864147365)-IPyC(0.16138444723464623)-SiC(0.17683264052799263)-OPyC(0.26064348644927093)(0.6)-(0.4)(0.5787037037037038)-(0.42129629629629617)(0.64)-He(0.36)" volume="981747.7042468104">
+  <material depletable="true" id="12" name="homogCore" volume="981747.7042468104">
     <density units="g/cm3" value="1.2282805362296967"/>
     <nuclide ao="1.3327726550342688e-08" name="He3"/>
     <nuclide ao="0.006663849947444795" name="He4"/>
