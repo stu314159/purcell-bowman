@@ -3,17 +3,16 @@
   <materials>
     <material depletable="true" id="1" name="PuProduct">
       <density units="g/cc" value="19.84"/>
-      <nuclide ao="3.2073197904318744e-20" name="Pu236"/>
-      <nuclide ao="1.4569357286470976e-19" name="Pu237"/>
-      <nuclide ao="3.767677481769161e-10" name="Pu238"/>
-      <nuclide ao="2.489408570104983e-06" name="Pu239"/>
-      <nuclide ao="6.023467777859958e-08" name="Pu240"/>
-      <nuclide ao="5.681731718742651e-09" name="Pu241"/>
-      <nuclide ao="5.552149685949189e-11" name="Pu242"/>
-      <nuclide ao="1.3934997679687493e-32" name="Pu243"/>
-      <nuclide ao="7.936586687795706e-18" name="Pu244"/>
-      <nuclide ao="6.504243054638787e-164" name="Pu245"/>
-      <nuclide ao="2.3059490756996947e-32" name="Pu246"/>
+      <nuclide ao="8.347120979895018e-19" name="Pu236"/>
+      <nuclide ao="1.358111946100153e-19" name="Pu237"/>
+      <nuclide ao="3.7771719140206856e-10" name="Pu238"/>
+      <nuclide ao="2.4913450473178747e-06" name="Pu239"/>
+      <nuclide ao="6.021545093878655e-08" name="Pu240"/>
+      <nuclide ao="5.690748123705138e-09" name="Pu241"/>
+      <nuclide ao="5.544662746123336e-11" name="Pu242"/>
+      <nuclide ao="7.88648491731234e-18" name="Pu244"/>
+      <nuclide ao="6.457098553036809e-164" name="Pu245"/>
+      <nuclide ao="1.0695571591282199e-32" name="Pu246"/>
     </material>
   </materials>
   <geometry>
