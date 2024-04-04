@@ -3,20 +3,22 @@
   <materials>
     <material depletable="true" id="1" name="PuProduct">
       <density units="g/cc" value="19.84"/>
-      <nuclide ao="3.5902314951658635e-19" name="Pu236"/>
-      <nuclide ao="1.115707081472889e-19" name="Pu237"/>
-      <nuclide ao="2.5439292261806104e-10" name="Pu238"/>
-      <nuclide ao="1.4705697954759588e-06" name="Pu239"/>
-      <nuclide ao="5.0296558496676154e-08" name="Pu240"/>
-      <nuclide ao="5.885243219065204e-09" name="Pu241"/>
-      <nuclide ao="8.38442908688966e-11" name="Pu242"/>
-      <nuclide ao="2.2373131954595742e-17" name="Pu244"/>
-      <nuclide ao="2.4921066564170834e-163" name="Pu245"/>
+      <nuclide ao="1.7366478673580718e-18" name="Pu236"/>
+      <nuclide ao="8.574411493790842e-20" name="Pu237"/>
+      <nuclide ao="2.0228657173634334e-09" name="Pu238"/>
+      <nuclide ao="2.7196322686879885e-06" name="Pu239"/>
+      <nuclide ao="1.7125753344681296e-07" name="Pu240"/>
+      <nuclide ao="3.9859008180991183e-08" name="Pu241"/>
+      <nuclide ao="1.2149282008052904e-09" name="Pu242"/>
+      <nuclide ao="5.1875057529959516e-30" name="Pu243"/>
+      <nuclide ao="9.074797707432828e-16" name="Pu244"/>
+      <nuclide ao="1.042316227159205e-161" name="Pu245"/>
+      <nuclide ao="1.3651298511426275e-31" name="Pu246"/>
     </material>
   </materials>
   <geometry>
     <cell id="20" material="1" name="Bare Critical Sphere" region="-20" universe="20"/>
-    <surface boundary="vacuum" coeffs="0 0 0 4.984016418457031" id="20" name="BCM" type="sphere"/>
+    <surface boundary="vacuum" coeffs="0 0 0 5.019157409667969" id="20" name="BCM" type="sphere"/>
   </geometry>
   <settings>
     <run_mode>eigenvalue</run_mode>
