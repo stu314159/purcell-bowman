@@ -7,19 +7,19 @@
     <sab name="c_Graphite"/>
   </material>
   <material depletable="true" id="12" name="homogCore" volume="981747.7042468104">
-    <density units="g/cm3" value="0.9989389548003708"/>
-    <nuclide ao="1.4060412952973924e-08" name="He3"/>
-    <nuclide ao="0.0070301924160740105" name="He4"/>
-    <nuclide ao="0.9295271624920103" name="C12"/>
-    <nuclide ao="0.0104126532791125" name="C13"/>
-    <nuclide ao="0.019963917486877977" name="O16"/>
-    <nuclide ao="7.584370979836176e-06" name="O17"/>
-    <nuclide ao="4.003107046982661e-05" name="O18"/>
-    <nuclide ao="0.02122451961076415" name="Si28"/>
-    <nuclide ao="0.0010777205478794487" name="Si29"/>
-    <nuclide ao="0.0007104382012554599" name="Si30"/>
-    <nuclide ao="0.0019761388766723546" name="U235"/>
-    <nuclide ao="0.008029627587491466" name="U238"/>
+    <density units="g/cm3" value="1.1136097455150336"/>
+    <nuclide ao="1.3684269353122e-08" name="He3"/>
+    <nuclide ao="0.006842120992291648" name="He4"/>
+    <nuclide ao="0.9055963049361567" name="C12"/>
+    <nuclide ao="0.010144577495578764" name="C13"/>
+    <nuclide ao="0.029144765357993038" name="O16"/>
+    <nuclide ao="1.1072211290223324e-05" name="O17"/>
+    <nuclide ao="5.8440241332355476e-05" name="O18"/>
+    <nuclide ao="0.030985083178110197" name="Si28"/>
+    <nuclide ao="0.001573334116917663" name="Si29"/>
+    <nuclide ao="0.0010371488807522122" name="Si30"/>
+    <nuclide ao="0.002884909933798293" name="U235"/>
+    <nuclide ao="0.011722228971509523" name="U238"/>
     <sab name="c_Graphite"/>
   </material>
 </materials>
